@@ -1,0 +1,12 @@
+node_modules/
+build/
+.env
+.DS_Store
+#php
+vendor/
+*.log
+#db / config
+*.sql
+# os / temp files
+Thumbs.db
+*.tmp
